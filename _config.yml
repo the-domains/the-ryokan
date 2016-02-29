@@ -1,0 +1,28 @@
+name: The Ryokan
+favicon: null
+layout_spectrum: 0.9199529625475407
+typography_spectrum: 0.35243136901408434
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.972201569005847
+  lightness: 0.08119574375450611
+  saturation: 0.8927957389969379
+  rhythmicContrast: 0.0062471486162394285
+purpose: []
