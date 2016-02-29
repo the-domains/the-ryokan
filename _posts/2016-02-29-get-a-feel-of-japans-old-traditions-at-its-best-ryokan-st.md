@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.star2.com'
   name: Star2.com
-  favicon: 'http://www.star2.com/favicon.ico'
   domain: www.star2.com
+  url: 'http://www.star2.com'
+  favicon: 'http://www.star2.com/favicon.ico'
 keywords:
   - ryokan
   - kyoto
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.star2.com/travel/hotels/2016/02/05/tripadvisor-names-japans-best-ryokan/'
 title: "Get a feel of Japan's old traditions at its best ryokan - Star2.com"
-datePublished: '2016-02-29T04:48:39.893Z'
-dateModified: '2016-02-29T04:47:34.760Z'
+datePublished: '2016-02-29T04:59:26.124Z'
+dateModified: '2016-02-29T04:52:13.740Z'
 sourcePath: _posts/2016-02-29-get-a-feel-of-japans-old-traditions-at-its-best-ryokan-st.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
